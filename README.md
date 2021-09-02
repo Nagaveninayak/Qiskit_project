@@ -1,2 +1,3 @@
-# Qiskit_projects
-All of the projects related to qiskit
+# main_projects
+academic project
+
